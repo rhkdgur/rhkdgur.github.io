@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: GO GWANG HYEOK
+description: 성장을 원하는 초보 개발자
+url: https://rhkdgur.github.io/
+avatar: /profile.PNG
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /code.jpg
 
 # Gems
 plugins:
