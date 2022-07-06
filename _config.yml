@@ -1,6 +1,6 @@
 # Setup
-title: GO GWANG HYEOK
-description: 성장을 원하는 초보 개발자
+title: 성장형 초보 개발자
+description: 더 나은 나로 성장하기 위해 노력하자
 url: https://rhkdgur.github.io/
 avatar: /profile.PNG
 paginate: 5
@@ -35,8 +35,8 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - 
+    - https://github.com/rhkdgur
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Go Gwang Hyeok
+  url: https://github.com/rhkdgur
+  email: rhkdgur@gmail.com
